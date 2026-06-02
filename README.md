@@ -1,79 +1,31 @@
-<!-- Apoorv Chauhan — GitHub Profile README -->
+# Apoorv Chauhan — Data & Analytics Engineer
 
-# Hi, I'm Apoorv Chauhan 👋
+**Senior Data & BI Analyst · Analytics Engineer · AI & GenAI Automation**
 
-**Data Analyst · 6+ years · Aviation Operations & AI Automation**
-Gurugram, India · Open to roles in India & Southeast Asia (Singapore · Bangkok · Vietnam)
+7+ years building analytics platforms and AI-powered data products in high-stakes operations environments.
 
----
+## 🔧 Core Stack
 
-## 🛠️ Tech Stack
+```python
+skills = {
+    "BI & Visualisation": ["Power BI", "DAX", "Tableau", "Spotfire", "Looker"],
+    "Analytics Engineering": ["SQL", "Python", "dbt", "Databricks", "PostgreSQL"],
+    "AI & GenAI": ["LangChain", "GPT-4", "RAG", "Vector Stores", "LLM Agents", "n8n"],
+    "Cloud": ["AWS", "Azure", "Snowflake", "Redshift", "BigQuery"],
+    "Automation": ["Apache Airflow", "Docker", "CI/CD", "Slack Alerting"]
+}
+```
 
-**Languages & Data**
-`Python` `SQL` `PostgreSQL` `ETL/ELT` `Data Modelling`
+## 📌 Key Projects
 
-**BI & Visualization**
-`Power BI` `Spotfire` `Tableau` `Dashboard Development`
+| Project | Description | Impact |
+|---------|-------------|--------|
+| [AI Ops Intelligence Platform](https://github.com/apoorvchauhan381-code/ai-ops-intelligence-platform) | LangChain + GPT-4 + RAG over live ops data | 100% ad-hoc requests eliminated |
+| [Vendor SLA Automation](https://github.com/apoorvchauhan381-code/vendor-sla-payment-automation) | Automated $6M/yr payment pipeline | 1-2 months → daily refresh |
+| [Multi-Partner BI Platform](https://github.com/apoorvchauhan381-code/multi-partner-reporting-platform) | Reporting for 20+ global airline partners | 500+ daily users, 60% faster |
 
-**AI & Automation**
-`LangChain` `OpenAI API` `RAG Pipelines` `n8n` `Apache Airflow` `Prompt Engineering`
+## 📫 Connect
 
-**Cloud & Platforms**
-`Databricks` `GCP` `AWS` `Azure` `Docker` `Git`
-
----
-
-## 📊 Impact at a glance
-
-| Metric | Result |
-|---|---|
-| Analytics processing time | ↓ 70% |
-| Time-to-insight | ↓ 65% |
-| Manual reporting eliminated | ~90% |
-| Vendor SLA process automated | $6M/year |
-| Airports covered | 450 domestic |
-| Partners served via auto-reporting | 20+ global |
-
----
-
-## 🚀 Featured Project — AI-Powered Ops Intelligence Platform
-
-> *End-to-end AI analytics platform built as sole data engineer & analyst*
-
-**Stack:** `n8n` · `LangChain` · `GPT-4` · `RAG` · `PostgreSQL` · `Power BI` · `Airflow`
-
-- Architected workflow orchestration + conversational data agent + LLM-based anomaly detection over 450-airport domestic ops data
-- Natural language interface now serves 100% of non-technical stakeholder data needs — zero ad-hoc analyst requests
-- Automated Slack alerting for real-time exception management
-- **Outcomes:** 70% reduction in analytics processing time · 65% improvement in time-to-insight
-
----
-
-## 📁 Other Projects
-
-### Vendor SLA Payment Automation
-Converted a $6M/year manual Excel process (1–2 month cycle) into a fully automated Spotfire dashboard with real-time SLA-level payment accuracy.
-`Spotfire` `SQL` `ETL`
-
-### Multi-Partner Reporting Platform
-Automated reporting for 20+ global partners — partitioned views with zero cross-visibility. Eliminated 90% of manual reporting effort.
-`SQL` `Spotfire` `Python`
-
-### LLM Anomaly Detection — Vendor Billing
-LLM-based layer that auto-flags irregular vendor billing patterns. Cut financial investigation time by 50%.
-`Python` `OpenAI API` `PostgreSQL`
-
----
-
-## 🏆 Certifications
-
-- 🔷 Databricks Certified Data Engineer Associate
-- 📊 Business Analysis & Process Management — Coursera
-- 📈 Spotfire Analytics — United Airlines
-
----
-
-## 📬 Let's connect
-
-- 📧 apoorvchauhan381@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/apoorv-chauhan-8a8865198)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apoorv-chauhan-8a8865198/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=flat&logo=googlechrome&logoColor=white)](https://apoorv-chauhan-ai-u6np9x0.gamma.site/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:apoorvchauhan381@gmail.com)
